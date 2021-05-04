@@ -1,0 +1,293 @@
+
+<!DOCTYPE html>
+
+<html lang="hu">
+
+ <head>
+  <title>Fizika1</title>
+  <meta charset="UTF-8">
+  </head>
+
+ <body style="background:url('hatter.jpg')">
+		<Left>
+			<font size="10" color="#ff6600"><strong>Ezen az oldalon a Villamosenergetika tantárgy tematikája kerül bemutatásra.</font></br></br></strong>
+			<font color="white">
+			<table border="2">
+			<a href="kezdolap.html" target="_top"><img src="home.png" height="100" border="0" alt=""></a>
+				<tr>
+					<td style="text-align: center; vertical-align:top">
+						1 (7)<br>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Bevezetés a villamos energetikába.
+Energiahordozók és villamosenergiatermelés.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Erőművek osztályozása és működése
+a tüzelőanyagok függvényében.
+
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						2 (8)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Hagyományos és megújuló
+energiaforrások. Villamosenergiarendszerek felépítése
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Villamos alállomások és
+kapcsolókészülékek. Hálózati
+alakzatok és feszültségszintek.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						3 (9)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Transzformátor felépítése, működése,
+villamos áramköri modellje.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Transzformátorok üzemállapotai,
+hatásfoka, speciális transzformátorok.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						4 (10)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Háromfázisú transzformátorok
+kapcsolása, helyük és szerepük a
+villamosenergia-rendszerben.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+						Transzformátorok működése
+számpéldákon keresztül.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						5 (11)<br>
+					
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Ipari előadók vendégelőadásai
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						6 (12)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Aszinkron gépek felépítése, működése
+és villamos áramköri modellje.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Aszinkron gépek hatásfokának és
+nyomatékának számítása.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						7 (13)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Szinkron gépek felépítése, működése és
+villamos áramköri modellje.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Szinkron gépek szerepe és helye a
+villamosenergia-rendszerben.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						8 (14)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Egyenáramú gépek felépítése, működése
+és gerjesztési módjai.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+						Egyenáramú gépek mechanikai
+jelleggörbéi és alkalmazási területeik.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						9 (15)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Bevezetés a villamos biztonságtechnikába.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Hálózatok és fogyasztók földelési
+módjai. Áramütés veszélyei és hatásai
+az emberi szervezetre.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						10 (16) <br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							HÚSVÉTI SZÜNET
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						11 (17)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Védekezés a közvetlen és közvetett
+áramütés ellen. Villamos védelmek.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Villamos gyártmányok védettsége,
+érintésvédelmi osztályok.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						12 (18)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Védővezetős és védővezető nélküli
+érintésvédelmi módok.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Földelési ellenállás mérése. Földelési
+rendszerek kialakítása.
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						13 (19)<br>
+						
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Feszültségemelkedés a nulla- és
+védővezetőkben.
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Villámvédelem
+						</div>
+					</td>
+				</tr>
+				<tr>
+					
+					<td style="text-align: center; vertical-align:top">
+						14 (20)<br>
+					
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Laborlátogatás/üzemlátogatás 
+						</div>
+					</td>
+					<td style="text-align: left">
+						<div style="width:500px; max-height:120px; overflow:auto">
+							Pótzárthelyi dolgozat
+						</div>
+					</td>
+				</tr>
+			</table>
+			
+			<br>
+			A tantárgy oktatója : <strong><u>Dr. Bodnár István</u></strong><br>
+			<img src="bodnar.jpg" width="400"/><br><br>
+</font>
+			<footer>
+				<a href="https://www.uni-miskolc.hu/~vegybod/OKTATAS/Tematika%20Villenergetika%20%C3%A9s%20bizt%20tech.pdf" target="villamos">
+					Forrás
+				</a>
+			</footer>
+		</center>
+	</div>
+</div>								<center>
+									<font color="black">
+										<br><br>
+										&copy; Minden jog fenntartva
+									</font>
+								</center>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</body>
+</html>

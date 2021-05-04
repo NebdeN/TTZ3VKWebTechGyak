@@ -1,0 +1,24 @@
+<!doctype html>
+
+<html lang="hu">
+
+	<head>
+		<title>Kezdolap</title>
+		<meta charset="UTF-8">
+	</head>
+
+	<body style="background:url('hatter1.jfif')">
+
+		<left>
+			<font size="5" color="#ffffff">Ezen a  weboldalon három tantárgynak a tematikáját lehet megnézni.</br></br>
+			A tárgyak a következőek : </br></br>
+			<a href="fizika1.html">Fizika 1</a></br></br>
+			<a href="fizika2.html">Fizika 2</a></br></br>
+			<a href="villamos.html">Villamosenergetika és biztonságtechnika</a></br>
+			A tantárgy leírását úgy tudod megnézni, ha a nevére <b>kattintasz</b>.<br>
+			Mindig vissza tudsz lépni a kezdőlapra.<br><br>
+			Remélem mindent sikerül megtalálnod amit szeretnék.<br><br> 
+			</font>
+			</left>
+	</body>
+</html>
